@@ -7,4 +7,4 @@ A simple test in selenium python that can run inside a dockerized container
     docker run -d -p 4444:4444 --shm-size="2g" selenium/standalone-chrome:4.8.0-20230210
     docker run -d -p 4444:4444 --shm-size="2g" selenium/standalone-chrome:latest
 3. You can access the standalone chrome on - http://localhost:4444/
-4. Create a simple selenium test
+4. Create a simple selenium test, run it on command prompt, and check the status on the above link
