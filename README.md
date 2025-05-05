@@ -1,4 +1,4 @@
-# Selenium-Docker-Python
+# Dockerized-Selenium-Test
 A simple test in selenium python that can run inside a dockerized container
 
 1. Search for selenium-chrome-standalone image on docker hub, and use the official one to pull the image. 
